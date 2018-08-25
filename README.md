@@ -7,6 +7,8 @@ Uma tradução brasileira feita pro Discord Bot Maker!
 
 2 - Ser original
 
+3 - Ter o DBM BETA
+
 **COMO INSTALAR:**
 
 Baixe os arquivos
