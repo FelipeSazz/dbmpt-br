@@ -26,3 +26,5 @@ E Depois procure a Pasta chamada ``translations``
 Entre e cole o arquivo que você baixou ``Português-Brasil.json`` na pasta!
 
 **Lembrando: Essa é uma versão basica com só algumas coisas traduzidas! Em breve irá sair uma atualização com mais coisas!**
+
+**NOTA: É Permitido pesonalizar a tradução! Mas caso libere para publico deixe os creditos pra @JustSazz_ **
