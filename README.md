@@ -15,4 +15,4 @@ Depois vá na pasta aonde o Steam esta instalada
 
 Abra a pasta e procure por steamapps e clique nela
 
-Depois vá em common e clique na
+Depois vá em common e clique em ``Discord Bot Maker``
