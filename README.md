@@ -11,7 +11,7 @@ Uma tradução brasileira feita pro Discord Bot Maker!
 
 Baixe os arquivos
 
-Copie o arquivo ``Português-Brasil.json```
+Copie o arquivo ``Português-Brasil.json``
 
 Vá no HD C: (O tradicional)
 
